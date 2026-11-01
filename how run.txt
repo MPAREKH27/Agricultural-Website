@@ -1,0 +1,11 @@
+-----Backend-------
+cd server
+npm install
+node server.js
+
+=====================================
+
+-------Frontend------------
+cd client
+npm install
+npx vite --port 8080
